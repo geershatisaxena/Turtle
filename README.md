@@ -56,7 +56,7 @@
 
 <p align = "justify">Welcome to the <b>Python Turtle Graphics Mega Collection</b>  a comprehensive, meticulously curated repository of <b>130+ unique projects</b> that demonstrate the full creative and educational power of <b>Python's built in Turtle module</b>.</p>
 
-<p align = "justify"><b>Whether you're a complete beginner</b> drawing your first square, or an experienced developer building physics simulations and fractal art, this collection scales with you. <b>Spanning 8 categories</b> across beginner to expert difficulty, it serves as both a practical learning resource and an inspiration hub for creative coders worldwide.</p>
+<p align = "justify"><b>Whether you're a complete beginner</b> drawing your first square, or an experienced developer building physics simulations and fractal art, this collection scales with you. <b>Spanning 8 categories</b> across <b>beginner to expert difficulty</b>, it serves as both a practical learning resource and an inspiration hub for creative coders worldwide.</p>
 
 <br/>
 
