@@ -16,7 +16,7 @@ writer.color("lime")
 writer.penup()
 writer.goto(-350, 0)
 
-text = "GEERSHATI SAXENA"
+text = "GEERSHATI SAXENA welcome to the world of Python Turtle Animations! Enjoy coding "
 
 typed_text = ""
 
