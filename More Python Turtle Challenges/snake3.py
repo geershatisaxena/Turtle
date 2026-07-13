@@ -2,6 +2,7 @@ import turtle
 import math
 import random
 import colorsys
+import time  # Added missing import
 
 # Set up the screen
 screen = turtle.Screen()
@@ -43,6 +44,7 @@ class RainbowSnake:
         self.hue_offset = 0
         self.movement_pattern = 0  # 0=free, 1=wave, 2=spiral
         self.tail_length = self.max_segments
+        self.start_time = time.time()  # Added for time tracking
         
         # Create initial segments
         for i in range(self.max_segments):
@@ -247,6 +249,7 @@ class RainbowSnake:
         self.direction = 0
         self.hue_offset = 0
         self.path.clear()
+        self.start_time = time.time()
 
 # Create snake
 snake = RainbowSnake()
