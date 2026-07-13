@@ -333,7 +333,9 @@ def bounce_flash():
         if step < 8:
             size = 3 - step * 0.35
             flash.shapesize(max(0.1, size))
-            flash.color(f"{(1 - step/8) * 0.8}")
+            # Use RGB tuple instead of string
+            brightness = (1 - step/8) * 0.8
+            flash.color((brightness, brightness * 0.8, 0))
             screen.ontimer(lambda: animate_flash(step + 1), 30)
         else:
             flash.hideturtle()
