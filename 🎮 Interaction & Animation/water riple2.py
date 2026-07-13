@@ -1,15 +1,11 @@
 import turtle
 import math
 import random
-
-# Set up the screen
 screen = turtle.Screen()
 screen.bgcolor("dark blue")
 screen.title("Water Ripple Animation")
 screen.tracer(0)
 screen.setup(800, 800)
-
-# Create water background
 water = turtle.Turtle()
 water.speed(0)
 water.penup()
