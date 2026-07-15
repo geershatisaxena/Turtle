@@ -1,40 +1,31 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HERO HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6A0DAD,25:C71585,50:FF6B35,75:FFD700,100:00CED1&height=260&section=header&text=Python%20Turtle%20Graphics&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=%E2%9C%A6%20Mega%20Collection%20%E2%9C%A6%20130%2B%20Projects&descSize=20&descAlignY=62&descColor=FFD700&animation=twinkling&stroke=FFFFFF&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0A0A,25:00F0FF,50:FF00FF,75:9D00FF,100:FFD700&height=260&section=header&text=Python%20Turtle%20Graphics&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=%E2%9C%A6%20Mega%20Collection%20%E2%9C%A6%20130%2B%20Projects&descSize=20&descAlignY=62&descColor=FFD700&animation=twinkling&stroke=00F0FF&strokeWidth=1" width="100%" />
 
 <br/>
 
-<!-- MAIN ANIMATED TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%90%A2+Python+Turtle+Graphics+Mega+Collection+%F0%9F%90%A2" alt="Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%90%A2+Python+Turtle+Graphics+Mega+Collection+%F0%9F%90%A2" alt="Title" />
 
 <br/>
 
-<!-- SUBTITLE — cycling taglines in vivid colours -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=B24BF3&center=true&vCenter=true&width=860&height=45&lines=%F0%9F%8E%A8+Generative+Art+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Simulations+%7C+%E2%99%BE%EF%B8%8F+Fractals;%F0%9F%8C%9F+130%2B+Unique+Projects+Across+8+Categories;%F0%9F%9A%80+From+Beginner+to+Expert+%E2%80%94+All+Levels+Welcome;%F0%9F%A7%A0+Where+Mathematics+Becomes+Visual+Art" alt="Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=FF00FF&center=true&vCenter=true&width=860&height=45&lines=%F0%9F%8E%A8+Generative+Art+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Simulations+%7C+%E2%99%BE%EF%B8%8F+Fractals;%F0%9F%8C%9F+130%2B+Unique+Projects+Across+8+Categories;%F0%9F%9A%80+From+Beginner+to+Expert+%E2%80%94+All+Levels+Welcome;%F0%9F%A7%A0+Where+Mathematics+Becomes+Visual+Art" alt="Subtitle" />
 
 <br/>
 
-<!-- BADGES -->
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1a1a2e)](https://python.org)
-[![Projects](https://img.shields.io/badge/Projects-130%2B-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](#)
-[![Turtle](https://img.shields.io/badge/Turtle-Module-B24BF3?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)](#)
-[![License](https://img.shields.io/badge/License-MIT-00CED1?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a2e)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/yourusername/repo?style=for-the-badge&color=FFD700&logo=star&logoColor=white&labelColor=1a1a2e)](#)
-[![Forks](https://img.shields.io/github/forks/yourusername/repo?style=for-the-badge&color=FF69B4&logo=git&logoColor=white&labelColor=1a1a2e)](#)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-00F0FF?style=for-the-badge&logo=python&logoColor=0A0A0A&labelColor=0A0A0A)](https://python.org)
+[![Projects](https://img.shields.io/badge/Projects-130%2B-FF00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A)](#)
+[![Turtle](https://img.shields.io/badge/Turtle-Module-9D00FF?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0A)](#)
+[![License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge&logo=opensourceinitiative&logoColor=0A0A0A&labelColor=0A0A0A)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/yourusername/repo?style=for-the-badge&color=FFD700&logo=star&logoColor=0A0A0A&labelColor=0A0A0A)](#)
+[![Forks](https://img.shields.io/github/forks/yourusername/repo?style=for-the-badge&color=FF00FF&logo=git&logoColor=white&labelColor=0A0A0A)](#)
 
 <br/>
 
-<!-- QUOTE — warm amber -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&style=italic&weight=400&size=15&pause=3000&color=FFB347&center=true&vCenter=true&width=760&height=35&lines=%E2%80%9CWhere+creativity+meets+code+%E2%80%94+transforming+math+into+visual+masterpieces.%E2%80%9D" alt="Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&style=italic&weight=400&size=15&pause=3000&color=FFD700&center=true&vCenter=true&width=760&height=35&lines=%E2%80%9CWhere+creativity+meets+code+%E2%80%94+transforming+math+into+visual+masterpieces.%E2%80%9D" alt="Quote" />
 
 <br/>
 
-<!-- QUICK-START pill — neon green -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2500&color=39FF14&center=true&vCenter=true&width=580&height=32&lines=%E2%96%B6+git+clone+%7C+cd+05_Fractals+%7C+python+koch_snowflake.py" alt="Quickstart" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2500&color=00F0FF&center=true&vCenter=true&width=580&height=32&lines=%E2%96%B6+git+clone+%7C+cd+05_Fractals+%7C+python+koch_snowflake.py" alt="Quickstart" />
 
 <br/>
 
@@ -44,33 +35,25 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        OVERVIEW                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6A0DAD,100:C71585&height=50&text=%F0%9F%A7%AD+Overview&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0A0A,100:9D00FF&height=50&text=%F0%9F%A7%AD+Overview&fontSize=22&fontColor=00F0FF&animation=blinking" width="100%" />
 </div>
 
 <br/>
 
-<p align = "justify">Welcome to the <b>Python Turtle Graphics Mega Collection</b>  a comprehensive, meticulously curated repository of <b>130+ unique projects</b> that demonstrate the full creative and educational power of <b>Python's built in Turtle module</b>.</p>
+<p align="justify">Welcome to the <b>Python Turtle Graphics Mega Collection</b> — a comprehensive, meticulously curated repository of <b>130+ unique projects</b> that demonstrate the full creative and educational power of <b>Python's built-in Turtle module</b>.</p>
 
-<p align = "justify"><b>Whether you're a complete beginner</b> drawing your first square, or an experienced developer building physics simulations and fractal art, this collection scales with you. <b>Spanning 8 categories</b> across <b>beginner to expert difficulty</b>, it serves as both a practical learning resource and an <b>inspiration hub for creative coders worldwide</b>.</p>
+<p align="justify"><b>Whether you're a complete beginner</b> drawing your first square, or an experienced developer building physics simulations and fractal art, this collection scales with you. <b>Spanning 8 categories</b> across <b>beginner to expert difficulty</b>, it serves as both a practical learning resource and an <b>inspiration hub for creative coders worldwide</b>.</p>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       HIGHLIGHTS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:B24BF3,100:FF69B4&height=50&text=%E2%9C%A8+Highlights&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9D00FF,100:FF00FF&height=50&text=%E2%9C%A8+Highlights&fontSize=22&fontColor=00F0FF&animation=blinking" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=700&color=FF69B4&center=true&vCenter=true&width=780&height=35&lines=%F0%9F%8E%A8+Creative+Coding+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Physics+%7C+%F0%9F%A7%A0+Algorithms+%7C+%F0%9F%8C%8C+Fractals" alt="categories" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=700&color=FF00FF&center=true&vCenter=true&width=780&height=35&lines=%F0%9F%8E%A8+Creative+Coding+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Physics+%7C+%F0%9F%A7%A0+Algorithms+%7C+%F0%9F%8C%8C+Fractals" alt="categories" />
 
 <br/>
 
@@ -92,12 +75,8 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    PROJECT STRUCTURE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF6B35,100:FFD700&height=50&text=%F0%9F%93%81+Project+Structure&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF00FF,100:FFD700&height=50&text=%F0%9F%93%81+Project+Structure&fontSize=22&fontColor=0A0A0A&animation=blinking" width="100%" />
 
 <br/>
 
@@ -155,16 +134,12 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     GETTING STARTED                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00CED1,100:39FF14&height=50&text=%F0%9F%9A%80+Getting+Started&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,100:00F0FF&height=50&text=%F0%9F%9A%80+Getting+Started&fontSize=22&fontColor=0A0A0A&animation=blinking" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=800&color=39FF14&center=true&vCenter=true&width=680&height=35&lines=Three+steps+to+your+first+Turtle+masterpiece...;Clone+%E2%86%92+Navigate+%E2%86%92+Run.+That%27s+it." alt="started hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=800&color=00F0FF&center=true&vCenter=true&width=680&height=35&lines=Three+steps+to+your+first+Turtle+masterpiece...;Clone+%E2%86%92+Navigate+%E2%86%92+Run.+That%27s+it." alt="started hint" />
 
 </div>
 
@@ -196,16 +171,12 @@ python koch_snowflake.py
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   COLLECTION AT A GLANCE                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF69B4,100:B24BF3&height=50&text=%F0%9F%93%8A+Collection+at+a+Glance&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:9D00FF&height=50&text=%F0%9F%93%8A+Collection+at+a+Glance&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&height=35&lines=8+categories+%C2%B7+130%2B+projects+%C2%B7+every+skill+level+covered" alt="glance hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=35&lines=8+categories+%C2%B7+130%2B+projects+%C2%B7+every+skill+level+covered" alt="glance hint" />
 
 <br/>
 
@@ -224,16 +195,12 @@ python koch_snowflake.py
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      LEARNING PATH                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFD700,100:FF6B35&height=50&text=%F0%9F%97%BA%EF%B8%8F+Learning+Path&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9D00FF,100:FF00FF&height=50&text=%F0%9F%97%BA%EF%B8%8F+Learning+Path&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1100&color=FFD700&center=true&vCenter=true&width=700&height=35&lines=Follow+the+path+%E2%80%94+or+jump+straight+to+what+excites+you." alt="path hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1100&color=FF00FF&center=true&vCenter=true&width=700&height=35&lines=Follow+the+path+%E2%80%94+or+jump+straight+to+what+excites+you." alt="path hint" />
 
 </div>
 
@@ -256,16 +223,12 @@ python koch_snowflake.py
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       CONTRIBUTING                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:39FF14,100:00CED1&height=50&text=%F0%9F%A4%9D+Contributing&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF00FF,100:00F0FF&height=50&text=%F0%9F%A4%9D+Contributing&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=All+skill+levels+welcome+%E2%80%94+PRs+reviewed+within+48+hours." alt="contributing hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&height=35&lines=All+skill+levels+welcome+%E2%80%94+PRs+reviewed+within+48+hours." alt="contributing hint" />
 
 </div>
 
@@ -284,12 +247,8 @@ python koch_snowflake.py
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                         LICENSE                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:C71585,100:6A0DAD&height=50&text=%F0%9F%93%9C+License&fontSize=22&fontColor=FFFFFF&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:9D00FF,100:0A0A0A&height=50&text=%F0%9F%93%9C+License&fontSize=22&fontColor=FFD700&animation=blinking" width="100%" />
 </div>
 
 <br/>
@@ -302,19 +261,15 @@ You are free to use, modify, and distribute this code for personal or commercial
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=900&color=FF6B35&center=true&vCenter=true&width=700&height=40&lines=%E2%AD%90+If+this+helped+you%2C+consider+giving+it+a+star!+%E2%AD%90" alt="star cta" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=900&color=FFD700&center=true&vCenter=true&width=700&height=40&lines=%E2%AD%90+If+this+helped+you%2C+consider+giving+it+a+star!+%E2%AD%90" alt="star cta" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=2000&color=B24BF3&center=true&vCenter=true&width=560&height=30&lines=Built+with+%F0%9F%90%A2+and+a+lot+of+turtle.forward(100)" alt="footer joke" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=2000&color=FF00FF&center=true&vCenter=true&width=560&height=30&lines=Built+with+%F0%9F%90%A2+and+a+lot+of+turtle.forward(100)" alt="footer joke" />
 
 <br/><br/>
 
@@ -324,6 +279,6 @@ You are free to use, modify, and distribute this code for personal or commercial
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,25:C71585,50:FF6B35,75:FFD700,100:00CED1&height=140&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,25:00F0FF,50:FF00FF,75:9D00FF,100:FFD700&height=140&section=footer" width="100%" />
 
 </div>
