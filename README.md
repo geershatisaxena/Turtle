@@ -4,11 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%90%A2+Python+Turtle+Graphics+Mega+Collection+%F0%9F%90%A2" alt="Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&pause=1000&color=00F0FF,FF00FF,9D00FF,FFD700&center=true&vCenter=true&width=700&height=40&lines=%E2%9C%A6+Mega+Collection+%E2%9C%A6+130%2B+Projects" alt="Banner accent" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=FF00FF&center=true&vCenter=true&width=860&height=45&lines=%F0%9F%8E%A8+Generative+Art+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Simulations+%7C+%E2%99%BE%EF%B8%8F+Fractals;%F0%9F%8C%9F+130%2B+Unique+Projects+Across+8+Categories;%F0%9F%9A%80+From+Beginner+to+Expert+%E2%80%94+All+Levels+Welcome;%F0%9F%A7%A0+Where+Mathematics+Becomes+Visual+Art" alt="Subtitle" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=1000&color=00F0FF,FF00FF,9D00FF,FFD700&center=true&vCenter=true&width=900&height=55&lines=%F0%9F%90%A2+Python+Turtle+Graphics+Mega+Collection+%F0%9F%90%A2" alt="Title" />
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=900&color=FF00FF,00F0FF,FFD700&center=true&vCenter=true&width=860&height=45&lines=%F0%9F%8E%A8+Generative+Art+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Simulations+%7C+%E2%99%BE%EF%B8%8F+Fractals;%F0%9F%8C%9F+130%2B+Unique+Projects+Across+8+Categories;%F0%9F%9A%80+From+Beginner+to+Expert+%E2%80%94+All+Levels+Welcome;%F0%9F%A7%A0+Where+Mathematics+Becomes+Visual+Art" alt="Subtitle" />
 
 <br/>
 
@@ -21,11 +25,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&style=italic&weight=400&size=15&pause=3000&color=FFD700&center=true&vCenter=true&width=760&height=35&lines=%E2%80%9CWhere+creativity+meets+code+%E2%80%94+transforming+math+into+visual+masterpieces.%E2%80%9D" alt="Quote" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&style=italic&weight=400&size=15&pause=3000&color=FFD700,FF00FF&center=true&vCenter=true&width=760&height=35&lines=%E2%80%9CWhere+creativity+meets+code+%E2%80%94+transforming+math+into+visual+masterpieces.%E2%80%9D" alt="Quote" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2500&color=00F0FF&center=true&vCenter=true&width=580&height=32&lines=%E2%96%B6+git+clone+%7C+cd+05_Fractals+%7C+python+koch_snowflake.py" alt="Quickstart" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=2500&color=00F0FF,9D00FF&center=true&vCenter=true&width=580&height=32&lines=%E2%96%B6+git+clone+%7C+cd+05_Fractals+%7C+python+koch_snowflake.py" alt="Quickstart" />
 
 <br/>
 
@@ -53,7 +57,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=700&color=FF00FF&center=true&vCenter=true&width=780&height=35&lines=%F0%9F%8E%A8+Creative+Coding+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Physics+%7C+%F0%9F%A7%A0+Algorithms+%7C+%F0%9F%8C%8C+Fractals" alt="categories" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=700&color=FF00FF,00F0FF,9D00FF&center=true&vCenter=true&width=780&height=35&lines=%F0%9F%8E%A8+Creative+Coding+%7C+%F0%9F%8E%AE+Games+%7C+%E2%9A%A1+Physics+%7C+%F0%9F%A7%A0+Algorithms+%7C+%F0%9F%8C%8C+Fractals" alt="categories" />
 
 <br/>
 
@@ -80,7 +84,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1500&color=FFD700&center=true&vCenter=true&width=700&height=35&lines=8+folders+%C2%B7+130%2B+scripts+%C2%B7+ready+to+run+out+of+the+box" alt="structure hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1500&color=FFD700,00F0FF&center=true&vCenter=true&width=700&height=35&lines=8+folders+%C2%B7+130%2B+scripts+%C2%B7+ready+to+run+out+of+the+box" alt="structure hint" />
 
 </div>
 
@@ -139,7 +143,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=800&color=00F0FF&center=true&vCenter=true&width=680&height=35&lines=Three+steps+to+your+first+Turtle+masterpiece...;Clone+%E2%86%92+Navigate+%E2%86%92+Run.+That%27s+it." alt="started hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=800&color=00F0FF,FFD700&center=true&vCenter=true&width=680&height=35&lines=Three+steps+to+your+first+Turtle+masterpiece...;Clone+%E2%86%92+Navigate+%E2%86%92+Run.+That%27s+it." alt="started hint" />
 
 </div>
 
@@ -176,7 +180,7 @@ python koch_snowflake.py
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=35&lines=8+categories+%C2%B7+130%2B+projects+%C2%B7+every+skill+level+covered" alt="glance hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=00F0FF,9D00FF,FF00FF&center=true&vCenter=true&width=700&height=35&lines=8+categories+%C2%B7+130%2B+projects+%C2%B7+every+skill+level+covered" alt="glance hint" />
 
 <br/>
 
@@ -200,7 +204,7 @@ python koch_snowflake.py
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1100&color=FF00FF&center=true&vCenter=true&width=700&height=35&lines=Follow+the+path+%E2%80%94+or+jump+straight+to+what+excites+you." alt="path hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1100&color=FF00FF,FFD700&center=true&vCenter=true&width=700&height=35&lines=Follow+the+path+%E2%80%94+or+jump+straight+to+what+excites+you." alt="path hint" />
 
 </div>
 
@@ -228,7 +232,7 @@ python koch_snowflake.py
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&height=35&lines=All+skill+levels+welcome+%E2%80%94+PRs+reviewed+within+48+hours." alt="contributing hint" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1200&color=00F0FF,9D00FF&center=true&vCenter=true&width=700&height=35&lines=All+skill+levels+welcome+%E2%80%94+PRs+reviewed+within+48+hours." alt="contributing hint" />
 
 </div>
 
@@ -265,11 +269,11 @@ You are free to use, modify, and distribute this code for personal or commercial
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=900&color=FFD700&center=true&vCenter=true&width=700&height=40&lines=%E2%AD%90+If+this+helped+you%2C+consider+giving+it+a+star!+%E2%AD%90" alt="star cta" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=16&pause=900&color=FFD700,FF00FF,00F0FF&center=true&vCenter=true&width=700&height=40&lines=%E2%AD%90+If+this+helped+you%2C+consider+giving+it+a+star!+%E2%AD%90" alt="star cta" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=2000&color=FF00FF&center=true&vCenter=true&width=560&height=30&lines=Built+with+%F0%9F%90%A2+and+a+lot+of+turtle.forward(100)" alt="footer joke" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=2000&color=FF00FF,9D00FF,00F0FF&center=true&vCenter=true&width=560&height=30&lines=Built+with+%F0%9F%90%A2+and+a+lot+of+turtle.forward(100)" alt="footer joke" />
 
 <br/><br/>
 
