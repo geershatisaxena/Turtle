@@ -20,6 +20,34 @@ label_t.speed(0)
 label_t.hideturtle()
 label_t.penup()
 
+def hsv_to_rgb(h, s, v):
+    """Convert HSV to RGB color"""
+    if s == 0.0:
+        return (v, v, v)
+    i = int(h * 6.0)
+    f = (h * 6.0) - i
+    p = v * (1.0 - s)
+    q = v * (1.0 - s * f)
+    t = v * (1.0 - s * (1.0 - f))
+    i = i % 6
+    if i == 0:
+        return (v, t, p)
+    if i == 1:
+        return (q, v, p)
+    if i == 2:
+        return (p, v, t)
+    if i == 3:
+        return (p, q, v)
+    if i == 4:
+        return (t, p, v)
+    if i == 5:
+        return (v, p, q)
+
+def hsv_to_hex(h, s, v):
+    """Convert HSV to hex color string"""
+    r, g, b = hsv_to_rgb(h, s, v)
+    return f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}"
+
 def draw_isometric_cube(x, y, size, colors, shadow=True):
     """Draw an isometric 3D cube"""
     
@@ -129,7 +157,7 @@ def draw_optical_illusion_grid():
     label_t.write("🌀 OPTICAL ILLUSION CUBE GRID 🌀", font=('Arial', 24, 'bold'), align="center")
     screen.update()
     
-    # Color schemes for illusion effect
+    # Color schemes for illusion effect (using hex colors)
     schemes = [
         # High contrast
         [["#FF6B6B", "#C0392B", "#FF9F9F", "#E74C3C"],
@@ -220,12 +248,12 @@ def draw_floating_cubes():
         # Size increases with distance from center
         size = 15 + 25 * (i / num_cubes)
         
-        # Colors shift along spiral
-        hue = (i / num_cubes) * 360
-        color1 = f"hsv({hue}, 0.9, 0.9)"
-        color2 = f"hsv({hue + 60}, 0.9, 0.8)"
-        color3 = f"hsv({hue + 120}, 0.9, 0.7)"
-        color4 = f"hsv({hue + 180}, 0.9, 0.6)"
+        # Colors shift along spiral using HSV converted to hex
+        hue = (i / num_cubes)
+        color1 = hsv_to_hex(hue, 0.9, 0.9)
+        color2 = hsv_to_hex(hue + 0.167, 0.9, 0.8)
+        color3 = hsv_to_hex(hue + 0.333, 0.9, 0.7)
+        color4 = hsv_to_hex(hue + 0.5, 0.9, 0.6)
         
         # Add floating effect with shadows
         draw_isometric_cube(x, y, size, [color1, color2, color3, color4], shadow=True)
@@ -290,6 +318,10 @@ def draw_animated_cube_wave():
                 
                 draw_isometric_cube(x, y, cube_size, colors, shadow=False)
         
+        # Update frame counter
+        label_t.goto(0, 420)
+        label_t.color("#87CEEB")
+        label_t.write(f"Frame: {frame+1}/40", font=('Arial', 12), align="center")
         screen.update()
         time.sleep(0.05)
 
