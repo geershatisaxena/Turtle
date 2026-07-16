@@ -1,6 +1,7 @@
 import turtle
 import math
 import random
+import time  # <- Added this import
 
 # Setup
 screen = turtle.Screen()
@@ -170,43 +171,30 @@ def draw_animated_yin_yang():
     
     # Draw animated frames
     for frame in range(36):  # 36 frames for rotation
-        # Clear previous frame
-        if frame > 0:
-            # Don't clear, overlay with slight transparency effect
-            pass
-        
         angle = frame * 10  # Rotation angle
         color_pair = colors[frame % len(colors)]
         
-        # Draw with rotation
+        # Clear and draw with current rotation
         t.clear()
-        
-        # Draw with current rotation
         draw_rotated_yin_yang(x, y, radius, color_pair[0], color_pair[1], angle)
         
         # Update status
         label_t.goto(0, 330)
         label_t.color("#87CEEB")
-        label_t.write(f"Rotation: {angle}°", font=('Arial', 14), align="center")
+        label_t.write(f"Rotation: {angle}° | Colors: {color_pair[0]} & {color_pair[1]}", 
+                     font=('Arial', 12), align="center")
         screen.update()
         time.sleep(0.05)
     
-    # Final drawing
+    # Final drawing with glow
     draw_glowing_yin_yang(x, y, radius, "#FF6B6B", "#4ECDC4", "#FF6B6B")
 
 def draw_rotated_yin_yang(x, y, radius, color1, color2, angle):
     """Draw a rotated yin-yang"""
     
-    # Rotate the entire drawing
-    t.penup()
-    t.goto(x, y)
-    t.setheading(angle)
-    t.pendown()
-    
     # Outer circle
     t.penup()
-    t.goto(x + radius * math.cos(math.radians(angle)), 
-            y + radius * math.sin(math.radians(angle)))
+    t.goto(x, y - radius)
     t.pendown()
     t.color(color1, color1)
     t.begin_fill()
@@ -223,7 +211,7 @@ def draw_rotated_yin_yang(x, y, radius, color1, color2, angle):
     t.circle(radius, 180)
     t.end_fill()
     
-    # S-curve
+    # S-curve with rotation
     t.penup()
     t.goto(x, y + radius)
     t.pendown()
@@ -254,6 +242,8 @@ def draw_rotated_yin_yang(x, y, radius, color1, color2, angle):
     ex = x - small_r * math.cos(math.radians(angle))
     ey = y - small_r * math.sin(math.radians(angle))
     draw_eye(ex, ey, small_r, color1, color2, tiny_r)
+    
+    t.pensize(1)
 
 def draw_yin_yang_mandala():
     """Draw a yin-yang mandala with concentric rings"""
